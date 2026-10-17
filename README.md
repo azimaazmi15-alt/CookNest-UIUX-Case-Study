@@ -76,7 +76,24 @@ Identify how users select meals and organize them within a meal planner.
 
 These task analyses helped the team understand the interactions required to support the application's main features.
 
-## 4. Prototype Screens
+## 4. Storyboards
+
+As part of the HCI group project, two storyboards were created to illustrate how users could interact with CookNest in everyday situations.
+
+### Storyboard 1: Recipe Search, Saving & Shopping List
+
+This storyboard follows a user searching for a recipe, saving it for future reference, and creating a shopping list based on the selected ingredients.
+
+![CookNest Storyboard 1](images/12-storyboard-recipe.png)
+
+### Storyboard 2: Meal Planning
+
+This storyboard illustrates how a user can select recipes and organize meals for specific dates using the meal planner.
+
+![CookNest Storyboard 2](images/13-storyboard-meal-planner.png)
+
+
+## 5. Prototype Screens
 
 The group developed a mid-fidelity interactive prototype using Figma.
 
@@ -98,7 +115,7 @@ The group developed a mid-fidelity interactive prototype using Figma.
 ### Saved Recipes
 ![CookNest Saved Recipes](images/05-saved-recipes.png)
 
-## 5. Design Approach
+## 6. Design Approach
 
 The project applied Human-Computer Interaction concepts, including:
 
@@ -110,13 +127,13 @@ The project applied Human-Computer Interaction concepts, including:
 
 The project resulted in an interactive mobile prototype that brings recipe discovery, saved recipes, shopping lists and meal planning into one application. The user and task analyses provided a foundation for understanding the intended users and their main interactions.
 
-## 6. Limitations and Future Improvements
+## 7. Limitations and Future Improvements
 
 As an academic prototype, CookNest had limitations, including a limited recipe selection and areas requiring further accessibility and usability improvements.
 
 Potential future improvements include more personalized recipe recommendations, offline access, improved accessibility and additional community features.
 
-## 7. What I Learned
+## 8. What I Learned
 
 This project helped me understand that designing an application involves more than creating an attractive interface.
 
