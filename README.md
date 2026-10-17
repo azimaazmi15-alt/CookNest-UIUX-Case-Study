@@ -52,11 +52,13 @@ I also worked on Hierarchical Task Analysis (HTA) to break down the main user ac
 
 Identify how users navigate the application, enter recipe keywords, browse results and select a recipe.
 
+
 **Task 2: Save a Recipe**
 
 ![Save Recipe HTA](images/09-hta-save.png)
 
 Identify the steps required to select a recipe and save it for future reference.
+
 
 **Task 3: Create a Shopping List**
 
@@ -64,11 +66,13 @@ Identify the steps required to select a recipe and save it for future reference.
 
 Break down the process of selecting a recipe, reviewing its ingredients and adding items to a shopping list.
 
+
 **Task 4: Plan Meals for Specific Dates**
 
 ![Meal Planner HTA](images/11-hta-meal-planner.png)
 
 Identify how users select meals and organize them within a meal planner.
+
 
 These task analyses helped the team understand the interactions required to support the application's main features.
 
