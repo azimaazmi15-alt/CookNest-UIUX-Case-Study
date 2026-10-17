@@ -38,24 +38,34 @@ The main target groups included:
 
 The analysis helped identify important user needs, including easy recipe discovery, saving favourite recipes, shopping list organization and meal planning.
 
+As part of the HCI project, I worked on analysing the target users of CookNest, including their backgrounds, cooking habits, needs and expectations. This helped the team understand who the application was designed for and what users would need from a cooking recipe app.
+
+![CookNest User Analysis](images/07-user-analysis.png)
+
 ## 3. Task Analysis
+
+I also worked on Hierarchical Task Analysis (HTA) to break down the main user activities into smaller, structured steps. The analysis covered four key tasks: searching for recipes, saving recipes, creating shopping lists and planning meals.
 
 Hierarchical Task Analysis (HTA) was used to break down four key user tasks into smaller steps.
 
 **Task 1: Search for a Recipe**
 
+![Search Recipe HTA](images/08-hta-search.png)
 Identify how users navigate the application, enter recipe keywords, browse results and select a recipe.
 
 **Task 2: Save a Recipe**
 
+![Save Recipe HTA](images/09-hta-save.png)
 Identify the steps required to select a recipe and save it for future reference.
 
 **Task 3: Create a Shopping List**
 
+![Shopping List HTA](images/10-hta-shopping-list.png)
 Break down the process of selecting a recipe, reviewing its ingredients and adding items to a shopping list.
 
 **Task 4: Plan Meals for Specific Dates**
 
+![Meal Planner HTA](images/11-hta-meal-planner.png)
 Identify how users select meals and organize them within a meal planner.
 
 These task analyses helped the team understand the interactions required to support the application's main features.
